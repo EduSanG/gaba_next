@@ -1,0 +1,56 @@
+
+
+.btn {
+    --bs-btn-border-radius: none;
+}
+
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #0071b8;
+    --bs-btn-border-color: #0071b8;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #005e99;
+    --bs-btn-hover-border-color: #005e99;
+    --bs-btn-focus-shadow-rgb: 49,132,253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #004f80;
+    --bs-btn-active-border-color: #004f80;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #0d6efd;
+    --bs-btn-disabled-border-color: #0d6efd;
+
+    min-width: 300px;
+    width: 45%;
+}
+
+footer {
+    background-color: rgb(226, 226, 226);
+}
+
+.btn-img {
+    background-color: transparent;
+    border: none;
+    color: #eee;
+    div>img{
+        transition: 200ms ease-in-out;
+        filter: brightness(0.6);
+    }
+
+    div:nth-child(2){
+        transition: 200ms ease-in-out;
+    }
+}
+
+.btn-img:hover {
+    color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+    div>img{
+        filter: brightness(0.4);
+    }
+
+    div:nth-child(2){
+        transform: scale(1.02);
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "Urbanización, Terrazerias y Construcción" : {
+        "text": "Prepárate para elevar tus expectativas! Con nuestro servicio de urbanización, terracerías y construcción, en GABA Servicios Industriales nos especializamos en superar obstáculos y construir caminos hacia el éxito. Cada proyecto es una oportunidad para demostrar nuestra excelencia y compromiso con resultados de calidad. Confía en nosotros para llevar tu proyecto al siguiente nivel y construir el camino hacia el éxito, sin importar los obstáculos que se presenten",
+        "tag": "urb",
+        "id": "urbanizacion"
+    },
+    "Servicios de Soldadura": {
+        "text": "¡Uniendo fuerzas para superar tus expectativas! En GABA Servicios Industriales, nuestra soldadura no solo une metales, sino también proyectos y sueños. Con habilidad experta y precisión incomparable, creamos conexiones que perduran en el tiempo. Confía en nosotros para fortalecer tus estructuras con soldaduras que resisten cualquier desafío, ¡porque juntos, construimos un futuro sólido y brillante!",
+        "tag": "sold",
+        "id": "soldadura"
+    },
+    "Lozas de Concreto": {
+        "text": "¡Construyendo sobre una base sólida! En GABA Servicios Industriales, nos especializamos en la creación de lozas de concreto que proporcionan una base resistente y duradera para tus proyectos. Desde la nivelación hasta el acabado final, cada detalle es cuidadosamente ejecutado para garantizar la calidad y la durabilidad. Confía en nosotros para construir sobre una base sólida que soporte tus sueños y ambiciones con firmeza.",
+        "tag": "loz",
+        "id": "lozas"
+    },
+    "Maniobras de Gran Tamaño": {
+        "text": "¡Moviendo montañas con gracia y precisión! Somos expertos en maniobras de gran tamaño que desafían los límites de lo posible. Desde la planificación hasta la ejecución, cada movimiento es realizado con destreza y seguridad. Confía en nosotros para llevar a cabo tus proyectos más grandes con la maestría y la profesionalidad que merecen, ¡porque cuando se trata de maniobras de gran tamaño, somos los expertos que puedes confiar!",
+        "tag": "man",
+        "id": "maniobras"
+    },
+    "Fabricación de Proyectos Diversos": {
+        "text": "¡Dando vida a tus ideas con creatividad y precisión! En GABA Servicios Industriales, nos especializamos en la fabricación de proyectos diversos que abarcan una amplia gama de industrias y aplicaciones. Desde la conceptualización hasta la realización, nuestro equipo experto trabaja con dedicación para convertir tus conceptos en realidades tangibles. Confía en nosotros para llevar a cabo tus proyectos con la calidad y la atención al detalle que merecen, ¡porque cuando se trata de fabricación de proyectos diversos, somos tu socio de confianza para el éxito!",
+        "tag": "fab",
+        "id": "fabricacion"
+    },
+    "Tuberías de Gas Natural": {
+        "text": "¡Conectando industrias con la energía que impulsa el mundo moderno! Entendemos la importancia de la seguridad y la eficiencia en las tuberías de gas natural en áreas industriales. Con nuestra experiencia y dedicación, garantizamos la instalación y el mantenimiento de tuberías de gas natural con los más altos estándares de calidad y seguridad. Confía en nosotros para llevar la energía a tu industria de manera segura y confiable, ¡porque cuando se trata de tuberías de gas natural en áreas industriales, somos tu mejor opción!",
+        "tag": "tub",
+        "id": "tuberias"
+    },
+    "Facility Maintenance": {
+        "text": "Mantenemos tu espacio en óptimas condiciones para que puedas brillar. En GABA Servicios Industriales, el mantenimiento de instalaciones es más que una tarea, es un arte. Desde la limpieza hasta las reparaciones, cuidamos cada detalle para garantizar que tu espacio funcione sin problemas. Confía en nosotros para mantener tus instalaciones en su mejor estado, ¡porque tu éxito es nuestro mantenimiento!",
+        "tag": "fac",
+        "id": "facilities"
+    },
+    "Mantenimiento de Equipos A/C, Chillers y Secadoras de Aire": {
+        "text": "Mantén la frescura en tu vida y nunca pases calor con nuestro servicio de mantenimiento especializado. En GABA Servicios Industriales, nos comprometemos a prolongar la vida útil y mejorar la eficiencia de tus sistemas de aire acondicionado, chillers y secadores de aire. Confía en nuestro equipo experto para garantizar un rendimiento óptimo en todo momento y mantener la frescura incluso en el verano de Mexicali.",
+        "tag": "hvac",
+        "id": "hvac"
+    },
+    "Suministro, Armado y Mantenimiento de Sistemas de Racks": {
+        "text": "¡Optimizando tus espacios con eficiencia y organización! En el mundo industrial, cada metro cuadrado cuenta. Con nuestro servicio integral, ofrecemos suministro, armado y mantenimiento de sistemas de racks diseñados para maximizar el espacio y la organización en tu almacén o centro de distribución. Confía en nosotros para garantizar la eficiencia y la seguridad en tus operaciones logísticas, ¡porque cuando se trata de sistemas de racks, somos tu mejor aliado para el éxito!",
+        "tag": "rack",
+        "id": "racks"
+    },
+    "Fabricación, Armado y Mantenimiento de Cabinas de Pintura": {
+        "text": "¡Deja que el color entre en tu vida con nuestro servicio de fabricación, armado y mantenimiento de cabinas de pintura! En GABA Servicios Industriales, no solo construimos cabinas, ¡creamos lienzos para tus proyectos! Desde el diseño hasta la instalación y el mantenimiento, nos aseguramos de que cada capa de color sea impecable. Confía en nosotros para dar vida a tus ideas con colores vibrantes y acabados perfectos.",
+        "tag": "pint",
+        "id": "cabinas"
+    },
+    "Servicios Torres de Enfriamiento": {
+        "text": "¡Dale un respiro de frescura a tus equipos industriales con nuestro servicio especializado en torres de enfriamiento! En GABA Servicios Industriales, comprendemos la importancia de mantener el agua a la temperatura adecuada para refrigerar tus equipos. Desde la limpieza hasta la optimización del rendimiento, nos encargamos de que tus torres funcionen como un susurro fresco en el viento, manteniendo tus operaciones en óptimas condiciones. Confía en nosotros para garantizar la frescura y la eficiencia en cada ciclo de refrigeración.",
+        "tag": "tor",
+        "id": "torres"
+    },
+    "Acabados Epóxicos": {
+        "text": "¡Transforma tus espacios con un toque de elegancia y durabilidad! En GABA Servicios Industriales, ofrecemos acabados epóxicos que no solo embellecen tus superficies, sino que también las protegen de manera duradera. Desde su aplicación hasta el último detalle, nos comprometemos a brindarte acabados que resistan el paso del tiempo con estilo. Confía en nosotros para darle vida a tus espacios con un toque de clase que perdura.",
+        "tag": "epox",
+        "id": "epoxico"
+    },
+    "Manejo de Químicos Peligrosos": {
+        "text": "¡Navegando por las corrientes de la seguridad con maestría y precaución! En GABA Servicios Industriales, comprendemos la importancia de un manejo adecuado de químicos peligrosos. Con protocolos rigurosos y experiencia probada, garantizamos un manejo seguro y eficiente de sustancias peligrosas. Confía en nosotros para proteger tu entorno de trabajo y tu equipo con la seriedad que merecen, ¡porque la seguridad es nuestra prioridad número uno!",
+        "tag": "quim",
+        "id": "quimicos"
+    },
+    "Autoclaves y Hornos": {
+        "text": "¡Transformando la temperatura en herramientas de precisión y calidad! Con tecnología de vanguardia y experiencia probada, convertimos el calor en una herramienta poderosa para tus procesos industriales. Confía en nosotros para mantener la temperatura adecuada y elevar la calidad de tus productos a nuevos niveles de excelencia.",
+        "tag": "hor",
+        "id": "hornos"
+    },
+    "Sistemas de Red contra Incendio": {
+        "text": "¡Apagando fuegos y protegiendo sueños con precisión y confiabilidad! Entendemos la importancia de la seguridad contra incendios. Con nuestros sistemas de red contra incendios, garantizamos una protección completa y confiable para tu negocio. Confía en nosotros para apagar fuegos y proteger tus sueños con tecnología de punta y una dedicación inquebrantable a la seguridad.",
+        "tag": "inc",
+        "id": "sist-incendio"
+    },
+    "Campanas Industriales Ductos y Sistemas de Extracción": {
+        "text": "¡Llevando el aire fresco a nuevos niveles de pureza y eficiencia! En el mundo industrial, la calidad del aire es fundamental. Con nuestras campanas industriales, ductos y sistemas de extracción, garantizamos un ambiente limpio y seguro para tus operaciones. Desde la instalación hasta el mantenimiento, cada paso se realiza con cuidado y precisión. Confía en nosotros para llevar tu aire a nuevos niveles de pureza y eficiencia, ¡porque en el negocio de la calidad del aire, somos los expertos que puedes respirar!",
+        "tag": "camp",
+        "id": "campanas"
+    },
+    "Instalaciones Industriales": {
+        "text": "¡Construyendo el futuro de la industria con ingeniería y precisión! En el mundo industrial, cada instalación es un paso hacia el éxito. Con nuestra experiencia y conocimientos técnicos, garantizamos la planificación, diseño, y ejecución de instalaciones industriales que cumplen con los más altos estándares de calidad y seguridad. Confía en nosotros para construir el camino hacia la eficiencia y la productividad en tu industria, ¡porque cuando se trata de instalaciones industriales, somos tu socio de confianza!",
+        "tag": "inst",
+        "id": "instalaciones"
+    },
+    "Pólizas de Mantenimiento": {
+        "text": "¡Protegiendo la vida útil y el rendimiento óptimo de tus equipos! En GABA Servicios Industriales, entendemos la importancia de un mantenimiento preventivo y programado. Con nuestras pólizas de mantenimiento, garantizamos la atención regular y experta que tus equipos necesitan para funcionar de manera eficiente y confiable. Confía en nosotros para mantener tus activos en óptimas condiciones y evitar costosos tiempos de inactividad, ¡porque cuando se trata de pólizas de mantenimiento, estamos comprometidos con tu éxito a largo plazo!",
+        "tag": "pol",
+        "id": "polizas"
+    }
+}
