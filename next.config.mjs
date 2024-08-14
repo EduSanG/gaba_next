@@ -2,7 +2,6 @@
 const nextConfig = {
     output: 'export',
     images: {unoptimized: true},
-    basePath: 'gaba_next',
     assetPrefix: 'https://edusang.github.io/gaba_next',
 };
 
