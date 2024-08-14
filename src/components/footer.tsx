@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Footer() {
 
     return <footer className="d-flex flex-column align-items-center py-3">
-    <Image src="/IdtsPgpBKldmBL.png" alt="Company Logo" width={255} height={160} style={{width: '128', height: 'auto'}} />
+    <Image src="/gaba_next/IdtsPgpBKldmBL.png" alt="Company Logo" width={255} height={160} style={{width: '128', height: 'auto'}} />
     <button type="button" className="btn btn-link" data-bs-toggle="modal" data-bs-target="#privacy-policy">
       Aviso de Privacidad
     </button>
