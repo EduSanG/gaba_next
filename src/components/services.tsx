@@ -21,7 +21,7 @@ export default function Services () {
                   data-bs-target={`#${service[1].id}`}>
                     <div className="position-absolute z-n1 top-0 bottom-0 start-0 end-0">
                         <Image
-                            src={`/btn-${service[1].tag}.jpg`}
+                            src={`/gaba_next/btn-${service[1].tag}.jpg`}
                             layout="fill"
                             objectFit="cover"
                             quality={100}
@@ -50,7 +50,7 @@ export default function Services () {
                   <button type="button" data-bs-target={`#${tag}-carousel`} data-bs-slide-to="2" aria-label="Slide 3"></button>
                 </div>
                 <div className="carousel-inner">
-                  {Array.from({ length: 3}, (val, index) => <div key={`carImg-${index}`} className={`carousel-item ${index==0? 'active': ''}`}><Image src={`/${tag}-${index+1}.jpg`} className="d-block w-100" width="240" height="480" style={{width: '100%',height: 'auto',}} alt="" loading='lazy' /></div>)}
+                  {Array.from({ length: 3}, (val, index) => <div key={`carImg-${index}`} className={`carousel-item ${index==0? 'active': ''}`}><Image src={`/gaba_next/${tag}-${index+1}.jpg`} className="d-block w-100" width="240" height="480" style={{width: '100%',height: 'auto',}} alt="" loading='lazy' /></div>)}
                 </div>
                 <button className="carousel-control-prev" type="button" data-bs-target={`#${tag}-carousel`} data-bs-slide="prev">
                   <span className="carousel-control-prev-icon" aria-hidden="true"></span>
