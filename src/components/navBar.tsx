@@ -31,8 +31,8 @@ export default function NavBar () {
                         <li className="nav-item dropdown">
                             <a href="#" className="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Nuestros Servicios</a>
                             <ul className="dropdown-menu">
-                                {Object.entries(services).map(service => {
-                                    return <li><a className="dropdown-item" href="#" onClick={() => openService(service[1].id)}>{service[0]}</a></li>
+                                {Object.entries(services).map((service, index) => {
+                                    return <li key={`service-button-${index}`}><a className="dropdown-item" href="#" onClick={() => openService(service[1].id)}>{service[0]}</a></li>
                                 })}
                             </ul>
                         </li>
@@ -42,7 +42,7 @@ export default function NavBar () {
                         </li>
                     </ul>
                     <div className="p-3">
-                        <Search />
+                        {/* <Search /> */}
                     </div>
                     <div>
                         <a className="wa-btn shadow-lg" href="https://wa.me/+526862391343">Chat en Whatsapp  <Image height="48" src={whatsappIcon} alt="" /></a>

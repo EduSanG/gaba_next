@@ -14,6 +14,7 @@ export default function Services () {
                   type="button" 
                   key={`servButton-${index}`}
                   role="option" 
+                  aria-selected={false}
                   className="btn-img my-1 mx-1 fs-5 position-relative"
                   style={{width: '400px', height: '300px'}}
                   data-bs-toggle="offcanvas" 
