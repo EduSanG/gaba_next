@@ -1,10 +1,9 @@
 import Image from "next/image"
 import coverImg from 'public/Portada.jpg'
 import misc from '@/app/misc.json'
-import { PlaceholderValue } from "next/dist/shared/lib/get-img-props"
 
 export default function Intro () {
-    return <section id='Presentacion'>
+    return <section id='Presentacion' style={{marginTop: '100px'}}>
         <div className="card mb-3">
             <Image className="card-img" src={coverImg} alt="Cover Photo" style={{filter: "brightness(0.6)", width: '100%', height: 'auto'}} />
             <div className="card-img-overlay d-flex flex-column justify-content-center ps-5">

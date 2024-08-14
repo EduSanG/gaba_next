@@ -4,6 +4,7 @@ import Image from "next/image"
 import logo from 'public/IdtsPgpBKldmBL.png'
 import whatsappIcon from 'public/icons8-whatsapp-144.png'
 import services from '@/app/services.json'
+import Search from "./search"
 
 export default function NavBar () {
 
@@ -13,7 +14,7 @@ export default function NavBar () {
 
     return <>
         <header>
-            <nav className="navbar navbar-expand-lg bg-body-tertiary">
+            <nav className="navbar navbar-expand-lg bg-body-tertiary" style={{position: 'fixed', zIndex: '5', width: '100%', top: '0'}}>
                 <div className="container-fluid">
                 <a className="navbar-brand" href="#">
                     <Image src={logo} alt="Company Logo" width="120" />
@@ -27,7 +28,7 @@ export default function NavBar () {
                             <a className="nav-link" aria-current="page" href="#aboutUs">Quienes Somos</a>
                         </li>
                         <div className="border d-none d-md-block" style={{borderWidth: '1px'}}></div>
-                        <li className="nac-item dropdown">
+                        <li className="nav-item dropdown">
                             <a href="#" className="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Nuestros Servicios</a>
                             <ul className="dropdown-menu">
                                 {Object.entries(services).map(service => {
@@ -40,8 +41,11 @@ export default function NavBar () {
                             <a className="nav-link" href="#contacto">Contacto</a>
                         </li>
                     </ul>
+                    <div className="p-3">
+                        <Search />
+                    </div>
                     <div>
-                        <a className="btn btn-primary rounded-pill fw-bold text-white px-0" href="https://wa.me/+526862391343" style={{minWidth: '220px'}}>Chat en Whatsapp  <Image height="48" src={whatsappIcon} alt="" /></a>
+                        <a className="wa-btn shadow-lg" href="https://wa.me/+526862391343">Chat en Whatsapp  <Image height="48" src={whatsappIcon} alt="" /></a>
                     </div>
                 </div>
                 </div>
